@@ -5,7 +5,7 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pia-albiña/)
 
-## Hola soy Pia Albiña , que gusto que pases por mi perfil 👋
+## Hola soy Pia , que gusto que pases por mi perfil 👋
 
  <div id="header" align="left">
 
