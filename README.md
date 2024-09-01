@@ -23,5 +23,8 @@ Here are some ideas to get you started:
 * Visualización de datos
 * Limpieza y transformación de datos
 * Y más por venir... 🚀
-Estoy emocionada de seguir aprendiendo y mejorando mis habilidades. Este repositorio es un reflejo de mi proceso de aprendizaje y un lugar donde comparto mi progreso y experimentos. ¡Gracias por pasar y espero que encuentres algo interesante aquí!
+Estoy emocionada de seguir aprendiendo y mejorando mis habilidades. Este repositorio es un reflejo de mi proceso de aprendizaje y un lugar donde comparto mi progreso y experimentos.
+
+¡Gracias por pasar y espero que encuentres algo interesante aquí!
+
 📫 Puedes contactarme en piaalbinamura@gmail.com o conectar conmigo en LinkedIn en www.linkedin.com/in/pia-albiña
