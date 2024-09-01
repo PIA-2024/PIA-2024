@@ -1,20 +1,27 @@
-## Hi there 👋
+
 
 <!--
 **PIA-2024/PIA-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-👋 ¡Hola! Soy Pia Albiña, actualmente estoy cursando un bootcamp de Data Science en Tripleten. Aquí encontrarás los proyectos en los que estoy trabajando mientras profundizo en el mundo del análisis de datos, machine learning y más.
+<div id="header" align="center">
+  <img decoding="async" src="Imagen Banner.png"/>
+</div>
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pia-albiña/)
+
+## Hola spy Pia Albiña , que gusto que pases por mi perfil 👋
+
+ <div id="header" align="left">
+
+### :woman_technologist: Sobre mí :
+
+ 🔭 Actualemnte me encuentro trabajando en una fabrica de aceite de oliva, soy gerente de operaciones y estrategias.
+ 🌱 Me encuentro cursando un bootcam para convertirme en Data Science, para obtener conocimientos de analisis de datos , abordar nuevos conocimientos, tener mas habilidades y probar nuevos trabajos.
+ 
+:heartbeat: Me encanta buscar formas de ir mejorando procesos , mejores estrategias de negocios, pero por sobre todo aprender nuevas tematicas. Busco oportunidades para poder aplicar estos nuevos conocimientos y seguir aprendiendo mucho mas.
+
+👯 Aquí encontrarás los proyectos en los que estoy trabajando mientras profundizo en el mundo del análisis de datos, machine learning y más.
 
 💻 Mis proyectos incluyen:
 
@@ -27,9 +34,6 @@ Estoy emocionada de seguir aprendiendo y mejorando mis habilidades. Este reposit
 
 ¡Gracias por pasar y espero que encuentres algo interesante aquí!
 
-📫 Puedes contactarme en piaalbinamura@gmail.com o conectar conmigo en LinkedIn en www.linkedin.com/in/pia-albiña
+📫 Puedes conectar conmigo en LinkedIn  [![Linkedin Badge](https://img.shields.io/badge/-Pia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pia-albiña/)
 
 
-<div id="header" align="center">
-  <img decoding="async" src="Imagen Banner.png"/>
-</div>
