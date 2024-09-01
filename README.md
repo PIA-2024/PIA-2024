@@ -1,9 +1,4 @@
 
-
-<!--
-**PIA-2024/PIA-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 <div id="header" align="center">
   <img decoding="async" src="Imagen Banner.png"/>
 </div>
@@ -16,8 +11,9 @@
 
 ### :woman_technologist: Sobre mí :
 
- 🔭 Actualemnte me encuentro trabajando en una fabrica de aceite de oliva, soy gerente de operaciones y estrategias.
- 🌱 Me encuentro cursando un bootcam para convertirme en Data Science, para obtener conocimientos de analisis de datos , abordar nuevos conocimientos, tener mas habilidades y probar nuevos trabajos.
+🔭 Actualemnte me encuentro trabajando en una fabrica de aceite de oliva, soy gerente de operaciones y estrategias.
+
+🌱 Me encuentro cursando un bootcam para convertirme en Data Science, para obtener conocimientos de analisis de datos , abordar nuevos conocimientos, tener mas habilidades y probar nuevos trabajos.
  
 :heartbeat: Me encanta buscar formas de ir mejorando procesos , mejores estrategias de negocios, pero por sobre todo aprender nuevas tematicas. Busco oportunidades para poder aplicar estos nuevos conocimientos y seguir aprendiendo mucho mas.
 
