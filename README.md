@@ -42,5 +42,7 @@ Estoy emocionada de seguir aprendiendo y mejorando mis habilidades. Este reposit
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
+   <img decoding="async" src="https://img.shields.io/badge/Machine_Learning-0078D4?style=for-the-badge&logo=python&logoColor=white" alt="machinelearning"/>
+  </a>
 
 </div>
