@@ -31,5 +31,5 @@ Estoy emocionada de seguir aprendiendo y mejorando mis habilidades. Este reposit
 
 
 <div id="header" align="center">
-  <img decoding="async" src="DALL·E 2024-08-31 21.41.37 - A GitHub banner image representing learning and growth in Data Science. The design should include elements like a laptop with code and data visualizat.webp"/>
+  <img decoding="async" src="Imagen Banner.png"/>
 </div>
