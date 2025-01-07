@@ -13,7 +13,7 @@
 
 🔭 Actualmente me encuentro trabajando en una fabrica de aceite de oliva, soy gerente de operaciones y estrategias.
 
-🌱 En este momento me encuentro cursando un bootcam para convertirme en Data Science , para obtener coconimientos sobre analisis de datos , presentar mas habilidades y probar nuevos trabajos.
+🌱 Curse un bootcam para convertirme en Data Science , para obtener coconimientos sobre analisis de datos , presentar mas habilidades y probar nuevos trabajos.
  
 :heartbeat: Me encanta buscar formas de ir mejorando procesos , mejores estrategias de negocios, pero por sobre todo aprender nuevas tematicas. Busco oportunidades para poder aplicar estos nuevos conocimientos y seguir aprendiendo mucho mas.
 
